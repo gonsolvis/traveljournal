@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Inter:wght@700&display=swap');
+*{
+
+  margin: 0;
+}
+.nav {
+  background-color: #F55A5A;
+  width: 100%;
+  height: 55px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+
+  }
+  
+.nav--text{
+  text-align: center;
+  font-family:Inter;
+  font-weight:500;
+  font-size:14.46px;
+  letter-spacing: -7.5%;   
+  color: #FFFFFF;
+  margin: 0.1%;
+
+  
+    }
+
+#Journey {
+
+  width: 100%;
+  height: auto;
+  background-color: white;
+  }
+
+  .outerClassBox{
+
+    width: 470px;
+    height: auto;
+    margin:1%;
+    
+  }
+  
+ #id-box{
+  width: 470px;
+  height: 168px;
+  border: none;
+ 
+  
+ } 
+
+  .card--img{
+    width: 125px;
+    height: 168px;
+    border-radius: 5px;
+     }
+
+ 
+
+
+.card--description{
+width: 326px;
+height: 45px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 150%;
+}
+
+
+
+.card--location{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 12px;
+letter-spacing: 0.17em;
+}
+
+.card-gmaps{
+ font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 12px;
+color: #918E9B;
+
+text-decoration-line: underline; 
+}
+
+h1{
+  font-family: 'Inter';
+  font-style: normal;
+  font-size: 25px;
+  line-height: 30px;
+
+color: #2B283A;
+}
+
+.card--dates{
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 10.24px;
+  line-height: 12px;
+  
+  color: #2B283A;
+}
