@@ -11,11 +11,5 @@ return(
 </nav>
 
 )}
-
-// 1x - 14px
-// 2x - 28px
-// 3x - 42px
-// 4x - 56px
-// 5x - 70px
 export default Nav
 
