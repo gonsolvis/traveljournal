@@ -24,23 +24,24 @@
   font-size:14.46px;
   letter-spacing: -7.5%;   
   color: #FFFFFF;
+  margin-top: 0.5%;
 
 
   
     }
 
 #Journey {
-
   width: 100%;
   height: auto;
   background-color: white;
-  margin: 3%;
+  margin: 0%;
+ 
   }
 
   .outerClassBox {
-    width: 100%;
+    width: 470px;
     height: auto;
-    margin: 0;
+    margin: 1%;
     padding: 1%;
     box-sizing: border-box;
   }
